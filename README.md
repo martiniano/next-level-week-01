@@ -4,7 +4,7 @@
   <img src="ecoleta/logo.png">
 </p>
 
-O Ecoleta é uma aplicação desenvolvida na [Next Level Week](https://nextlevelweek.com/), semana realizada pela [Rocketseat](https://rocketseat.com.br/) focada na stack NojeJs, Reack e React Native. o Ecoleta é um Marketplace de coleta de resíduos com o objetivo de ajudar pessoas a encontrarem pontos de coleta de forma eficiente.
+O Ecoleta é uma aplicação desenvolvida na [Next Level Week](https://nextlevelweek.com/), semana realizada pela [Rocketseat](https://rocketseat.com.br/) focada na stack NojeJs, Reack e React Native. O Ecoleta é um Marketplace de coleta de resíduos com o objetivo de ajudar pessoas a encontrarem pontos de coleta de forma eficiente.
 
 <p align="center">
   <img src="ecoleta/web.png">
