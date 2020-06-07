@@ -60,13 +60,20 @@ const Points = () => {
   useEffect(() => {
     api.get('/items').then(response => {
         setItems(response.data);
-    })
+    }).catch(error => {
+      console.log(error);
+      Alert.alert("Não foi possível obter os ítems de coleta.");
+    });
   }, []);
 
   useEffect(() => {
     api.get('/points', {params: { city: routeParams.city, uf: routeParams.uf, items: selectedItems }}).then(response => {
       setPoints(response.data);
-    })
+    }).catch(error => {
+      console.log(error);
+      Alert.alert("Não foi possível obter os ponts de coleta.");
+      //Alert.alert(error);
+    });
   }, [selectedItems]);
 
   function handleNavigateBack(){
