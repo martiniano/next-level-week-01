@@ -47,7 +47,7 @@ $ expo start
 
 # :hourglass: ToDO
 * No projeto Web: Adicionar suporte a internacionalização das mensagens de validação (Celebrate/Joi)
-* No projeto Mobile: Adicionar SplashScreen
+* No projeto Mobile: Criar ícone e splashScreen para Android e Ios
 
 # :computer: Libs utilizadas
 
