@@ -41,6 +41,10 @@ $ npm start
 # ou 
 $ expo start
 ```
+<p align="center">
+  <img src="ecoleta/mobile.png">
+</p>
+
 # :hourglass: ToDO
 * No projeto Web: Adicionar suporte a internacionalização das mensagens de validação (Celebrate/Joi)
 * No projeto Mobile: Adicionar SplashScreen
