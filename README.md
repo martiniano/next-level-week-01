@@ -41,6 +41,9 @@ $ npm start
 # ou 
 $ expo start
 ```
+# :hourglass: ToDO
+* No projeto Web: Adicionar suporte a internacionalização das mensagens de validação (Celebrate/Joi)
+* No projeto Mobile: Adicionar SplashScreen
 
 # :computer: Libs utilizadas
 
