@@ -42,7 +42,7 @@ $ npm start
 $ expo start
 ```
 <p align="center">
-  <img src="ecoleta/mobile.png">
+  <img src="ecoleta/mobile.jpeg">
 </p>
 
 # :hourglass: ToDO
