@@ -1,6 +1,3 @@
-# next-level-week-01
-Projeto desenvolvido Next Level Week 01 by Rocketseat
-
 ## :rocket: Ecoleta
 
 <p align="center">
